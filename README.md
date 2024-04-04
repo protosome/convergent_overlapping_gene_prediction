@@ -3,6 +3,7 @@
 1) Representative code used to generate the overlapping gene datasets is provided in gene_dataset_building.R
 2) Python code used to train a transformer mode is provided in translation_transformer.py
 3) Python code used to run inference and process predictions from the trained model is provided in transformer_model_prediction.py
+4) To run inference, codon_overlap.ipynb includes the basic code required for model usage and may be opened in Google Colab for convenient implementation.
 
 
 
